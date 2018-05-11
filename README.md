@@ -19,13 +19,6 @@ The project has 2 separated parts. Front-end, developed using React and the back
 If every thing is correct, you can see the chronometer in the black window and shouldn’t prompt any connection errors.  
 <br>
 
-## Project Documentation
-<p align="center">
-   <ul>
-      <li>Open the Doc folder to find OpenOffice document containing detailed project documentation</li>
-   </ul>
-</p><br>
-
 ## How it works
 <br>
 
