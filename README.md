@@ -44,3 +44,17 @@ It shows all the previous saved tasks with their start date and end date. There 
 
 ### Adding a task manually
 There is also an option to add a task manually without tracking on the main screen which is useful in cases where you forget to add a task using the tracker.
+
+<br>
+
+### Remarks:
+<ul>
+   <li>Time spent : 3 days (project research, gathering relevant resources, coding, testing, finishing up)</li>
+   <li>I liked the React JS framework because it's very easy to setup and needs minimal code to integrate services with any type of backend API.</li>
+   <li>I have used HTML5 "datetime-local" and "date" input type for date input but some sort of datepicker JS would be more appropriate as well.</li>
+   <li>Currently first the user have to track time and then give task Name and description. May be it will be better to have a form by side to enter the changes as live as well.</li>
+   <li>If I had more time I would add more liveliness to the application by adding the tracker directly to the task list and then the user could any time click on the task and make changes as well along the way.
+   </li>
+   <li>I am satisfied by the application task tracking and task history with search and pagination but user input and user experience could be more enhanced but that's another topic for now.
+   </li>
+</ul>
