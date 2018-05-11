@@ -1,5 +1,6 @@
 <p align="center"><h2 align="center">Time Tracker</h2>
-    </p>
+    <img  src="https://github.com/umairriaz90/time_tracker/images/Main.jpg"/>  
+</p>
 
 <br>
 <br>

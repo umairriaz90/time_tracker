@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39b7d9f9-027e-4366-adba-558bcb68d653" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/Doc/Data updating.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Doc/DataBase.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Doc/Loading history.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Doc/Opening the application.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Doc/UML.eap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Doc/UseCase.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Doc/images/CountDown.PNG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Doc/images/History page.PNG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Doc/images/Home.PNG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Doc/images/Network.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Doc/images/Save page.PNG" afterPath="" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/back-end/composer.json" afterPath="$PROJECT_DIR$/back-end/composer.json" />
-      <change beforePath="$PROJECT_DIR$/back-end/composer.lock" afterPath="$PROJECT_DIR$/back-end/composer.lock" />
-      <change beforePath="$PROJECT_DIR$/back-end/src/Controller/Api.php" afterPath="$PROJECT_DIR$/back-end/src/Controller/Api.php" />
-      <change beforePath="$PROJECT_DIR$/back-end/src/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/back-end/src/Controller/DefaultController.php" />
-      <change beforePath="$PROJECT_DIR$/back-end/src/Entity/Trackedtime.php" afterPath="$PROJECT_DIR$/back-end/src/Entity/Trackedtime.php" />
-      <change beforePath="$PROJECT_DIR$/back-end/symfony.lock" afterPath="$PROJECT_DIR$/back-end/symfony.lock" />
-      <change beforePath="$PROJECT_DIR$/front-end/package-lock.json" afterPath="$PROJECT_DIR$/front-end/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/front-end/package.json" afterPath="$PROJECT_DIR$/front-end/package.json" />
-      <change beforePath="$PROJECT_DIR$/front-end/src/App.css" afterPath="$PROJECT_DIR$/front-end/src/App.css" />
-      <change beforePath="$PROJECT_DIR$/front-end/src/App.js" afterPath="$PROJECT_DIR$/front-end/src/App.js" />
-      <change beforePath="$PROJECT_DIR$/front-end/src/components/HistoryList.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/src/components/historyList.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/src/components/stopwatch/StopWatch.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/src/components/stopwatch/stopwatch.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -123,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/back-end/src/Controller/Api.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
-              <caret line="108" column="29" lean-forward="true" selection-start-line="108" selection-start-column="29" selection-end-line="108" selection-end-column="29" />
+              <caret line="108" column="29" lean-forward="false" selection-start-line="108" selection-start-column="29" selection-end-line="108" selection-end-column="29" />
               <folding>
                 <element signature="e#59#79#0#PHP" expanded="true" />
                 <marker date="1526031536822" expanded="true" signature="4874:4907" ph="SELECT * FRO... task" />
@@ -403,12 +374,12 @@
       <updated>1525582329211</updated>
       <workItem from="1525582332866" duration="42838000" />
       <workItem from="1525825641202" duration="1105000" />
-      <workItem from="1525827201521" duration="100241000" />
+      <workItem from="1525827201521" duration="100324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144184000" />
+    <option name="totallyTimeSpent" value="144267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="40" width="1326" height="688" extended-state="1" />
@@ -732,7 +703,7 @@
     <entry file="file://$PROJECT_DIR$/back-end/src/Controller/Api.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
-          <caret line="108" column="29" lean-forward="true" selection-start-line="108" selection-start-column="29" selection-end-line="108" selection-end-column="29" />
+          <caret line="108" column="29" lean-forward="false" selection-start-line="108" selection-start-column="29" selection-end-line="108" selection-end-column="29" />
           <folding>
             <element signature="e#59#79#0#PHP" expanded="true" />
             <marker date="1526031536822" expanded="true" signature="4874:4907" ph="SELECT * FRO... task" />
