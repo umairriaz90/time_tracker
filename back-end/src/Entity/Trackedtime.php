@@ -20,28 +20,24 @@ class Trackedtime
      * @ORM\GeneratedValue(strategy="IDENTITY")
      */
     public $id;
-
     /**
      * @var string
      *
      * @ORM\Column(name="description", type="string", length=250, nullable=false)
      */
     public $description = '';
-
     /**
      * @var int
      *
      * @ORM\Column(name="duration", type="bigint", nullable=false)
      */
     public $duration = '0';
-
     /**
      * @var \DateTime|null
      *
      * @ORM\Column(name="submitdate", type="date", nullable=true)
      */
     public $submitdate;
-
     /**
      * @var bool
      *
@@ -53,12 +49,10 @@ class Trackedtime
     {
         return $this->id;
     }
-
     public function getDescription(): ?string
     {
         return $this->description;
     }
-
     public function setDescription(?string $description): self
     {
         $this->description = $description;

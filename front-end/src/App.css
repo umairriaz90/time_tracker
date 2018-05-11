@@ -38,7 +38,7 @@ body{
 
 h1 { 
     color: var(--wight-color);
-    font-size: var(--font-size-header); 
+    font-size: 14px;
     font-weight: 5; 
     margin:0;
 }
@@ -57,7 +57,6 @@ h1 {
 }
 
 .footer {
-    position: absolute;
     color:var(--wight-color);
     left: 0;
     bottom: 0;
@@ -127,7 +126,7 @@ button:focus{
     width:100%;
     background-color:var(--main-bg-color);
     height: var(--main-buttons-height-X2);
-    font-size:var(--font-size-header);
+    font-size:14px;
     text-decoration: none;
     margin:0;
 }
@@ -147,7 +146,7 @@ button:focus{
 
 .save-record-button{
     width:100%;
-    font-size:var(--font-size-header);
+    font-size:14px;
     height: var(--main-buttons-height-X3);
 }
 
@@ -158,7 +157,7 @@ input,textarea{
     border: 2px solid var(--gray-bg-color) ;
     font-family: 'Julius Sans One', sans-serif;
     color:#fff;
-    font-size:var(--font-size-header);
+    font-size:14px;
     text-align: center;
     display:block;
 }
@@ -170,20 +169,20 @@ input::selection,textarea::selection{
 label{
     display:block;
     color:#fff;
-    font-size:var(--font-size-header);
+    font-size:14px;
     margin:4px;
 }
 
 .please-wait{
     color:#fff;
     margin-top:100px;
-    font-size:var(--font-size-header);
+    font-size:14px;
     text-align:center;
 }
 
 li{
     list-style-type: none;
-    font-size:var(--font-size-header);
+    font-size:14px;
     color:#fff;
     height:30px;
     padding:0;
@@ -193,20 +192,7 @@ li{
 ul{
     margin:0;
     padding:0;
-    overflow-y:scroll;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 p { color: #adb7bd; font-family: 'Lucida Sans', Arial, sans-serif; font-size: 16px; line-height: 26px; text-indent: 30px; margin: 0; }
 
 a { color: #fe921f; text-decoration: underline; }
@@ -215,3 +201,29 @@ a:hover { color: #ffffff }
 
 .date { background: #fe921f; color: #ffffff; display: inline-block; font-family: 'Lato', sans-serif; font-size: 12px; font-weight: bold; line-height: 12px; letter-spacing: 1px; margin: 0 0 30px; padding: 10px 15px 8px; text-transform: uppercase; }
 
+div#root {
+    width: 100%;
+}
+
+input,textarea {
+    width: 50%;
+    border:none;
+    padding:0;
+    margin:10px 10px 10px 0;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+label {
+    font-size: 14px;
+}
+
+form {
+    padding: 20px;
+}
+
+button.save-record-button {
+    width: 50%;
+    font-size: 14px;
+    height: 40px;
+}
