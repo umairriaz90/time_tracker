@@ -1,6 +1,5 @@
 <p align="center"><h2 align="center">Time Tracker</h2>
-    <img  src="https://github.com/MESepehr/TimeTracker/blob/Documentation/Doc/images/Network.png"/>  
-</p>
+    </p>
 
 <br>
 <br>
