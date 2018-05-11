@@ -16,8 +16,7 @@ The project has 2 separated parts. Front-end, developed using React and the back
    <li>Run npm install in the front-end DIR from console</li>
    <li>Run the front-end project with npm start.</li>
 </ol>
-If every thing is correct, you can see the chronometer in the black window and shouldn’t prompt any connection errors.  You have to control that both server ( React yarn and Symfony php ) are running to gather.<br>
-<p align="center"><img height="200px" src="https://github.com/MESepehr/TimeTracker/blob/Documentation/Doc/images/Home.PNG?raw=true"/></p>
+If every thing is correct, you can see the chronometer in the black window and shouldn’t prompt any connection errors.  
 <br>
 
 ## Project Documentation
